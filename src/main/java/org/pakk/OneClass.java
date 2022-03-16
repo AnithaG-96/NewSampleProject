@@ -10,6 +10,10 @@ System.out.println("MethodA2");
 private void method3() {
 System.out.println("MethodA3");
 }
+private void method4() {
+System.out.println("MethodA4");
+}
+
 public static void main(String[] args) {
 	OneClass o=new OneClass();
 	o.method1();
